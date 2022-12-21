@@ -1,0 +1,18 @@
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>HTML 5 Boilerplate</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+	<h1>Main Heading</h1>
+<<<<<<< HEAD
+	<h2>This heading is created from server</h2>
+=======
+	<h2>This is Second level Heading</h2>
+>>>>>>> b846aa202a64c68de8c350c92d2013ed69165cac
+	<script src="index.js"></script>
+  </body>
+</html>
